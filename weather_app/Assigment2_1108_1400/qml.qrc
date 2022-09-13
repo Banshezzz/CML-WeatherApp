@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainScreen.qml</file>
+        <file>InfoScreen.qml</file>
+        <file>StatusBar.qml</file>
+        <file>images/back.png</file>
+        <file>Title.qml</file>
+        <file>data.json</file>
+        <file>application.xml</file>
+        <file>data.txt</file>
+        <file>database/data.sqlite</file>
+    </qresource>
+</RCC>
